@@ -5,8 +5,8 @@ This is a multi-threaded Bitcoin private key search program that uses CPU multi-
 
 
 ## RUST(This version is recommended.)
-<img src="images/rust1.png" alt="" width="400">
-<img src="images/rust2.png" alt="" width="400">
+<img src="image/rust1.png" alt="" width="400">
+<img src="image/rust2.png" alt="" width="400">
 
 # Instructions
 
@@ -19,11 +19,11 @@ This is a multi-threaded Bitcoin private key search program that uses CPU multi-
 # Thank you for your use
 If this .py really helps you, could you give me some tokens to buy chips?
 
-    btc：
+    BTC：
     
     bc1q8np6jeglpgju7ex5z6mvsmllzwhxqzytymwlv7
     
-    ltc：
+    LTC：
     
     LTzSaAtCvAhjRYJHSFPjmqustpYRCypXxL
     
@@ -38,6 +38,7 @@ If this .py really helps you, could you give me some tokens to buy chips?
     Aptos：
     0x3f7d7a503dcd26915d93af18f3deaf7108a29b7e517e627782882d313835f00b
     
+
 
 
 
