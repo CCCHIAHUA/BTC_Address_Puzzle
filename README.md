@@ -5,7 +5,8 @@ This is a multi-threaded Bitcoin private key search program that uses CPU multi-
 
 
 ## RUST(This version is recommended.)
-<img src="images/rust.png" alt="" width="400">
+<img src="images/rust1.png" alt="" width="400">
+<img src="images/rust2.png" alt="" width="400">
 
 # Instructions
 
@@ -18,10 +19,26 @@ This is a multi-threaded Bitcoin private key search program that uses CPU multi-
 # Thank you for your use
 If this .py really helps you, could you give me some tokens to buy chips?
 
-    XMR
-    467uP2E4Q6KPAHgxcD9qjpDDJyuqLds6vS7SSwmGdxYLdqFqpzQiEdVEx3fUd7kfCCJKDTTSa8GShUbZyHARwWYcJNsnLGz
+    btc：
     
-    USDT、USDC（trc-20）
+    bc1q8np6jeglpgju7ex5z6mvsmllzwhxqzytymwlv7
+    
+    ltc：
+    
+    LTzSaAtCvAhjRYJHSFPjmqustpYRCypXxL
+    
+### (USDT、USDC)
+    
+    TRC20:
     TXdmK7Dd5UjWbfutoiHDGLBub4hYjbWteg
+    
+    Arbitrum One:
+    0xceF4D9ae284AB6f836dB20C851c3631fe2eCCc72
+    
+    Aptos：
+    0x3f7d7a503dcd26915d93af18f3deaf7108a29b7e517e627782882d313835f00b
+    
+
+
 
 
