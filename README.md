@@ -16,8 +16,7 @@ This is a multi-threaded Bitcoin private key search program that uses CPU multi-
     RUSTFLAGS="-C target-cpu=native" cargo run --release -- --target-file BTC_Puzzle_Address_71.tsv --output-file found.tsv --threads 8 --range 400000000000000000:7fffffffffffffffff
 
 
-# Thank you for your use
-Support me!
+# Support me!
 
     BTC：
     
@@ -38,6 +37,7 @@ Support me!
     Aptos：
     0x3f7d7a503dcd26915d93af18f3deaf7108a29b7e517e627782882d313835f00b
     
+
 
 
 
