@@ -17,7 +17,7 @@ This is a multi-threaded Bitcoin private key search program that uses CPU multi-
 
 
 # Thank you for your use
-If this .py really helps you, could you give me some tokens to buy chips?
+Support me!
 
     BTC：
     
@@ -38,6 +38,7 @@ If this .py really helps you, could you give me some tokens to buy chips?
     Aptos：
     0x3f7d7a503dcd26915d93af18f3deaf7108a29b7e517e627782882d313835f00b
     
+
 
 
 
